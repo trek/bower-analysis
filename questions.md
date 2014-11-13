@@ -22,7 +22,12 @@
 
 
 
-## Files
-query-clean.csv is the query results convreted to a csv
-query-clean-dedup.csv is the query results with dupes removed
-e.g. /ember/ and /ember both appeared. This normalizes their data.
+## Data Files
+* query-clean.csv is the query results convreted to a csv
+* query-clean-dedup.csv is the query results with dupes removed
+  e.g. /ember/ and /ember both appeared. This normalizes their data.
+* query-clean-dedup.json is query-clean-dedup.csv as json
+
+
+## AMD loaders are popular
+almond, requirejs, loader.js
